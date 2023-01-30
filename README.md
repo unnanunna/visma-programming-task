@@ -20,5 +20,5 @@
   Truthfully, I don't have that much experience making back-end style codes like this, since my interests are more in front-end. I would ask from someone who has true experience how to improve parts of my code or if they see some serious mistakes.
   Of course if this was implemented in a real app, uri couldn't be asked only as an input from user. This should be changed, and if that was already needed for this task I apologise for my misunderstanding.
   
-  I made quite quick tests, since there wasn't too much time to do this task, so I would test the validation functinalities more and maybe even implement different messages for different path invalidations. 
-  Now the program shuts down a bit roughly only using sys.exit, so I would make a different way to do error handling and messages depending on how the requirements need it to be.
+  The tests I made were quite quick and simple, since there wasn't too much time to do this task, so I would test the validation functinalities more and maybe even implement different messages for different path invalidations. 
+  Also since I didn't have much time the program shuts down a bit roughly only using sys.exit, so I would make a different way to do error handling and messages depending on how the requirements need it to be.
